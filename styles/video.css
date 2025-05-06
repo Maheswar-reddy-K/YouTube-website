@@ -73,7 +73,7 @@
   }
 }
 
-@media (min-width: 1471px){
+@media (max-width: 1471px){
   .video-grid{
     grid-template-columns: 1fr 1fr 1fr 1fr;
   }
@@ -87,6 +87,6 @@
   right: 5px;
   font-size: 16px;
   font-weight: 500;
-  padding: 4px 10px;
+  padding: 4px 3px 4px 3px;
   border-radius: 2px;
 }
